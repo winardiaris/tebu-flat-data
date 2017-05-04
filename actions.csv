@@ -301,3 +301,12 @@
 ./tools-check-spelling,./stock_spellcheck
 ./zoom-fit,./zoom-fit-best
 ./go-bottom,./stock_bottom
+./lock,./lock-secure
+./media-optical-video,./media-optical-video-new
+./media-optical-data,./media-optical-data-new
+./media-seek-backward,./media-skip-backward
+./media-seek-forward,./media-skip-forward
+./mail-message-new,./mail-mark-unread-new
+./mail-inbox,./mail-receive
+./dialog-ok,./dialog-apply
+./help-about,./get-hot-new-stuff
