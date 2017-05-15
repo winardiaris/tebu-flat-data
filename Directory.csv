@@ -1,6 +1,6 @@
 actions/#size#,"16,22,24,32,48,64,96",Actions,fixed,,
 actions/scalable,96,Actions,scalable,8,512
-action/ssymbolic,16,Actions,scalable,,
+animations/#size#,16,Actions,scalable,,
 animations/#size#,"16,22,24,32,48,64,96",Animations,fixed,,
 animations/scalable,22,Animations,scalable,8,512
 animations/symbolic,16,Animations,scalable,,
